@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week3logicalOperators\bin\Debug\netcoreapp3.1\Week3logicalOperators.exe
+C:\Users\opilane\source\repos\Week3logicalOperators\bin\Debug\netcoreapp3.1\Week3logicalOperators.deps.json
+C:\Users\opilane\source\repos\Week3logicalOperators\bin\Debug\netcoreapp3.1\Week3logicalOperators.runtimeconfig.json
+C:\Users\opilane\source\repos\Week3logicalOperators\bin\Debug\netcoreapp3.1\Week3logicalOperators.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week3logicalOperators\bin\Debug\netcoreapp3.1\Week3logicalOperators.dll
+C:\Users\opilane\source\repos\Week3logicalOperators\bin\Debug\netcoreapp3.1\Week3logicalOperators.pdb
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.dll
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.pdb
+C:\Users\opilane\source\repos\Week3logicalOperators\obj\Debug\netcoreapp3.1\Week3logicalOperators.genruntimeconfig.cache
